@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Chamando o CSS externo -->
-    <link rel="stylesheet" href="./src/css/estilo.css">
-    <title>Energia limpa - Por um futuro mais sustentável</title>
+    <link rel="stylesheet" href="./src/css/contato.css">
+    <title>Contato</title>
 </head>
 <body>
     <header>
@@ -19,9 +19,9 @@
                 <li><a href="contato.html">Contato</a></li> <!-- Adicionando estrutura Contato -->
                 <li><a href="quiz.html">Quiz</a></li> <!-- Adicionando estrutura Quiz -->
                 <div class="mudarCor">  <!-- Estrutura DIV para executar a função de trocar cor do site no JavaScript -->
-                <input type="button" class="cor" onclick="trocar('#0000FF')"> <!-- Troca a cor pra azul -->                    
-                <input type="button" class="cor" onclick="trocar('#FF0000')"> <!-- Troca a cor para Vermelho -->                    
-                <input type="button" class="cor" onclick="trocar('#800080')"> <!-- Troca a cor para Roxo -->                   
+                <input type="button" class="cor" onclick="trocar('#0000FF')"> <!-- Troca a cor pra azul -->
+                <input type="button" class="cor" onclick="trocar('#FF0000')"> <!-- Troca a cor para Vermelho -->
+                <input type="button" class="cor" onclick="trocar('#800080')"> <!-- Troca a cor para Roxo -->
                 </div>
             </ul>
         </nav>
@@ -29,7 +29,30 @@
 
     <hr>
 
+    <main>
+        <h1 class="title">
+            Informações de Contato
+        </h1>
+        <h2>
+            Contate-nos das 8 ás 18 de segunda a sexta nas seguintes plataformas:  
+        </h2>
+
+        <div class="slide">
+            <div class="pagina" onclick="telefone()"><img src="./src/assets/phone.png" alt="">Telefone</div>
+            <div class="pagina" onclick="email()"><img src="./src/assets/gmail.png" alt="">Email</div>
+            <div class="pagina" onclick="wpp()"><img src="./src/assets/wpp.png" alt="">Whatsapp</div>
+            <div class="pagina" onclick="insta()"><img src="./src/assets/instagram.png" alt="">instagram</div>
+        </div>
+
+    </main>
+
+
+
     <!-- Chamando o JavaScript externo -->
-     <script src="./src/js/script.js"></script>
+     <script src="./src/js/contato.js"></script>
 </body>
 </html>
+    
+
+    
+ 
