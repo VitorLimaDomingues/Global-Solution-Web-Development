@@ -40,6 +40,11 @@ header nav ul a:hover {
     border-radius: 100px;
 }
 
+.titulo {
+    margin-right: 1100px;
+}
+
+
 .subtitulo {
     display: grid;
     justify-content: center;

@@ -1,5 +1,5 @@
 // Adicionando uma mensagem de boas vindas
-alert('Bem-vindo ao Site Energia verde!')
+// alert('Bem-vindo ao Site Energia verde!')
 
 // Função para trocar cor do body do site
 function trocar(cor){

@@ -14,3 +14,11 @@ function wpp(){
 function insta(){
     alert("Nosso instagram é @EnergiaVerde_br")
 }
+
+function instagram() {
+    alert("Nosso instagram: @EnergiaVerde_br")
+}
+
+function facebook() {
+    alert("Nosso facebook: EnergiaVerde_br")
+}
