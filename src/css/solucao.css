@@ -62,6 +62,38 @@ img{
     display: flex;
     border-radius: 50px;
     margin: auto;
+    margin-bottom: 20px;
 }
 
-    
+footer {
+    display: flex;
+    justify-content: space-around;
+    background: #66cc66;
+    padding: 40px;
+}
+
+footer a {
+    color: #000;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #778899;
+}
+
+.informacao {
+    font-size: 150%;
+    font-weight: 700;
+}
+
+.sociais {
+    font-size: 150%;
+    font-weight: 700;
+    margin-left: 900px;
+}
+
+.redes img {
+    width: 40px;
+    gap: 10px;
+    cursor: pointer;
+}    

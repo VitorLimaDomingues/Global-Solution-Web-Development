@@ -15,7 +15,7 @@ form.addEventListener('submit',(e)=>{
     if (checarCampos()) {
         // Se todos os campos forem válidos, aguarda 3 segundos antes de redirecionar
         setTimeout(() => {
-            window.location = "index.html"
+            window.location = "quiz.html"
         }, 3000) // 3000 milisegundos = 3 segundos
     }
 })
