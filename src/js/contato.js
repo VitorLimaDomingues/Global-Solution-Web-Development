@@ -1,3 +1,7 @@
+function trocar(cor){
+    document.body.style.background = cor
+}
+
 function telefone(){
     alert("Nosso telefone fixo é 11-98978-6322")
 }
