@@ -5,11 +5,12 @@
 }
 
 body {
-    background: #808080;
+    background: url('/src/assets/eolica.gif') no-repeat center center fixed;
+    background-size: cover;
     display: grid;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 100vh;   
 }
 
 .main {

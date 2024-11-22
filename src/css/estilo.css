@@ -39,3 +39,95 @@ header nav ul a:hover {
     width: 20px;
     border-radius: 100px;
 }
+
+.subtitulo {
+    display: grid;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 200%;
+    font-weight: 700;
+}
+
+.smart_section {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px
+}
+
+.smart_section h2 {
+    font-size: 220%;
+}
+
+.smart_section strong {
+    color: #006400;
+}
+
+.inform_section {
+    display: flex;
+    margin-top: 50px;
+    gap: 30px;
+}
+
+.inform_section h2 {
+    margin-left: 39%;
+    font-size: 200%;
+}
+
+.inform_section img {
+    width: 40%;
+}
+
+.inform_section span {
+    width: 55%;
+    line-height: 1.5;
+    text-align: start;
+    font-size: 170%;
+}
+
+.subtitulo2 {
+    display: grid;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 200%;
+    font-weight: 700;
+}
+
+.beneficios {
+    display: grid;
+    margin-top: 3%;
+    margin-left: 8%;
+    font-size: 150%;
+    gap: 15px;
+}
+
+.porque_mudar {
+    display: grid;
+    width: 80%;
+    text-align: start;
+    font-size: 190%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 13%;
+    line-height: 1.5;
+}
+
+footer {
+    display: flex;
+    background: #66cc66;
+    padding: 40px;
+}
+
+footer a {
+    color: #000;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #778899;
+}
+
+.informacao {
+    font-size: 150%;
+    font-weight: 700;
+}
