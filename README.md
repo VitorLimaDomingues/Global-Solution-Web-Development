@@ -56,5 +56,13 @@ As Smart Grids são uma parte fundamental da transição para um sistema de ener
 
 ## Autores
 
-- Vitor de Lima Domingues
-- João Pedro Vieira de Morais
+- Vitor de Lima Domingues(RM561008)
+- João Pedro Vieira de Morais(RM560527)
+
+## Link para o repositório no Github
+
+- Repositório git: https://github.com/VitorLimaDomingues/Global-Solution-Web-Development
+
+## Link para o GitPages
+
+- Página hospedada no GitPages: https://vitorlimadomingues.github.io/Global-Solution-Web-Development/
