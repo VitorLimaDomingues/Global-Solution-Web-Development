@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('/src/assets/eolica.gif') no-repeat center center fixed;
+    background: url('./src/assets/eolica.gif') no-repeat center center fixed;
     background-size: cover;
     display: grid;
     align-items: center;
