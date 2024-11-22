@@ -5,8 +5,6 @@
 }
 
 body {
-    background: url('/src/assets/city.png') no-repeat center center fixed;
-    background-size: cover;
     display: grid;
     align-items: center;
     justify-content: center;
