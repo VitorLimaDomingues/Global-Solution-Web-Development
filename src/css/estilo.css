@@ -48,6 +48,13 @@ header nav ul a:hover {
     font-weight: 700;
 }
 
+.img {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
 .smart_section {
     display: grid;
     justify-content: center;
